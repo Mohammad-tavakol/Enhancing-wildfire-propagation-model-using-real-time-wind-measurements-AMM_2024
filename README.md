@@ -11,7 +11,7 @@
 
     " Enhancing Wildfire Propagation Model Predictions Using UAV Swarm-Based
      Real-Time Wind Measurements: A Conceptual Framework "published in the journal of Applied Mathematical Modelling. 
-
+     https://www.sciencedirect.com/science/article/pii/S0307904X24001227
 
 
  *  The Code functions are stored in the "FireProMF code" directory with the main                             *
